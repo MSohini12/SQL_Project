@@ -1,0 +1,13 @@
+table-invoice	
+							
+invoice_id   customer_id    invoice_date      billing_address   billing_city  billing_state  billing_country  billing_postal	total
+
+1		5	  03-01-2017 00:00	627 broadway	   new york	NY	        USA	      10012-2612	15.84
+2		3         03-01-2017 00:00	230 elgin street    ottawa	ON	     Canada	         K2P 1L7	 9.9
+3		4	  05-01-2017 00:00	8, rue hanovre	     paris	None	     France	           75002	 1.98
+4		8	  06-01-2017 00:00	627 broadway	   new york	NY	        USA	      10012-2612	 7.92
+5		7	  07-01-2017 00:00	1033n park avenue    tucson	AZ	        USA	           85719	16.83
+6		1	  10-01-2017 00:00   194a chain lake drive  halifax	NS		Canada	         B3S 1C5	 1.98
+7		10	  12-01-2017 00:00	ordynacka 10	    warsaw	None		Poland	          00-358	10.89
+8		9	  13-01-2017 00:00   3,raj bhavan road	   bangalore	None		India		  560001	 9.9
+9		18	  18-01-2017 00:00	627 broadway	    new york	NY		USA	      10012-2612	 8.91
