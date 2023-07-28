@@ -1,5 +1,7 @@
-track 						
+table-track 
+
 track_id	 t_name	   album_id	genre_id	composer	milliseconds	unit_price
+
 101	           bohemian	201	1	           Fredie	354000	         1.29
 102	       shape of you	202	2	       Ed sheeran	233000	         0.99
 103	          all blues	203	3	            Miles	480000	         1.49
@@ -7,4 +9,4 @@ track_id	 t_name	   album_id	genre_id	composer	milliseconds	unit_price
 105	    rolling in deep	202	2	            Adele	228000	         0.99
 106	            so what	203	3	            Miles	522000	         1.49
 107	          fur elise	205	5	           Ludwig	256000	         0.79
-108	love the way you lie	204	4	           Eminem	254000	         1.29
+108	love the way you lie	204	4	           Eminem	254000	       1.29
