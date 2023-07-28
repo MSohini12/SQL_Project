@@ -1,0 +1,13 @@
+table-customer	
+
+									
+customer_id  first_name   last_name     company	       address	                    city	       state	 country          postalcode	     email	      support_report_id
+  
+1	        Luis	      Troy      Embraer	       1234 NW Bobcat Lane	    sao dos campos     SP	 Brazil	            1227-000	      luisg@embraer.com	            3
+2	      Leonie	    Kohler	Groupon	      Av. brigaderio farria lane    stuttgart	       NULL	 Germany	     70174	leonekohler@groupon.com	            5
+3	   Francocis	  Tremblay	Omnilert      Therodor house	            montreal	       QC	 Canada            H2G 1A7	    ftremblay@gmail.com	            3
+4	      Ashish	    Bhatia	NULL	      1498 rue belanger	            Oslo	       NULL	 Norway   	      171	     Bhatia99@gmail.com	            4
+5	      Helena	      Holy	NULL	       ullevalsveien 14	            prague	       NULL	 Czech Republic      14300	        hholy@gmail.com       	    4
+6	        Daan	     Peter     Technologent	611 kalen street	   San Francisco     California	 USA	             96162	      d_peter@apple.com		    5
+7	      Aritra	      Roy      Intellivision	101 b lane	           gruber	       NULL	 Austria	     1010	             roy@iv.com		    5
+8	        John	    Christ	NULL	        81 horse lane	           Brussels	       NULL	 Belgium	     1000	     J.Christ@yahoo.com		    4
