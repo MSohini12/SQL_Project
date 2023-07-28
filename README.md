@@ -5,5 +5,5 @@ This SQL project is to analyze onlinr music store data
 
 DATABASE AND TOOLS:
 
-  MySQL
-  Music_Store
+ 1. MySQL    
+ 2.  Music_Store
