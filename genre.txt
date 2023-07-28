@@ -1,0 +1,12 @@
+table-genre	
+
+genre_id	name
+
+1		rock
+2		pop
+3		rock
+4		rock	
+5		pop
+6		jazz
+7		hip-hop
+8		classical
