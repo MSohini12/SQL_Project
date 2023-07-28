@@ -1,0 +1,12 @@
+table-artist	
+
+artist_id	artist_name
+
+301		Queen
+302		Ed sheeran
+303		Miles
+304		Emimem
+305		Ludwig
+306		Beyonce
+307		Michael Jackson
+308		Bob
