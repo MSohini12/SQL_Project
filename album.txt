@@ -1,0 +1,11 @@
+table-album	
+	
+album_id	title	      artist_id
+
+201		divide		301
+202		kind of blue	302
+203		symphony	303
+204		thriller	304
+205		lemonade	305
+206		legend		306
+207		opera		307
